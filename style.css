@@ -1,14 +1,14 @@
 @font-face{
     font-family: myfont;
-    src: url(../font/Vazir-Thin.ttf);
+    src: url(./font/Vazir-Thin.ttf);
 }
 @font-face{
     font-family: shabnam;
-    src: url(../font/Shabnam-Bold-FD-WOL.ttf);
+    src: url(./font/Shabnam-Bold-FD-WOL.ttf);
 }
 @font-face{
     font-family: yekan;
-    src: url(../font/Yekan.ttf);
+    src: url(./font/Yekan.ttf);
 }
 *{
     box-sizing: border-box;
