@@ -198,6 +198,7 @@ p{
     padding: 15px;
 }
 /* why_us */
+
 .why_us_item{
     width: 25%;
     height:auto;
@@ -209,15 +210,17 @@ p{
     height: 300px;
     /* background-color: #BCBCC7; */
     text-align: center;
+    padding: 60px 0;
 }
 .why_us_card img{
-    width: 40%;
+    width: 30%;
     height: auto;
 }
 h4{
     font-family: myfont;
-    font-size: 12px;
+    font-size: 14px;
   }
+
 
 @media only screen and (max-width:1200px) {
     .new_post{
@@ -249,6 +252,9 @@ h4{
     }
     .logo img{
         display: none
+    }
+    .why_us_item{
+        width: 50%;
     }
   }
   @media only screen and (max-width:950px){
