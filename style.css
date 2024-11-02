@@ -233,7 +233,7 @@ h4{
   .container{
     display: grid;
     grid-template-columns: auto auto auto auto;
-    padding: 0 55px;
+    padding: 0 65px;
   }
 .mail_footer_item{
     width: 25%;
