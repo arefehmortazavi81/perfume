@@ -229,6 +229,8 @@ p{
 h4{
     font-family: myfont;
     font-size: 14px;
+    float: right;
+    padding-top: 10px;
   }
   
 
